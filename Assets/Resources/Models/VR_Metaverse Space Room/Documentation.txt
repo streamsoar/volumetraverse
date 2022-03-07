@@ -1,0 +1,38 @@
+VR/Metaverse Space Room
+
+This package works only in Unity version 2020.2.2f1 and higher.
+If you need HDRP or URP version click on 'VR/Metaverse Space Room (HDRP).unitypackage' or 'VR/Metaverse Space Room (URP).unitypackage' in HDRP_URP_packages folder.
+
+VR/Metaverse Space Room environment with well designed, optimised, detailed interior, and one HDRI with stars and a planet.
+This environment was ment for VR, but it can be used in any project.
+
+Most assets have LOD's where appropriate.
+
+HDRI_Star_Sky - 2048x2048
+Couch - 2048x2048 (Mask, Normal Map)
+Wall_lights - 2048x2048 (Albedo, Mask, Normal Map, Emissive)
+
+Couch_01_collider - 246 tris
+Couch_01_LOD0 - 1668 tris
+Couch_01_LOD1 - 540 tris
+Couch_01_LOD2 - 230 tris
+
+Couch_02 - 66 tris
+
+Lamp_LOD0 - 130 tris
+Lamp_LOD1 - 58 tris
+
+Lamps_ceiling_LOD0 - 1080 tris
+Lamps_ceiling_LOD0 - 540 tris
+Lamps_ceiling_LOD0 - 288 tris
+
+Table_LOD0 - 480 tris
+Table_LOD0 - 256 tris
+Table_LOD0 - 128 tris
+
+Shadow_proxy - 628 tris
+
+Interior Glass - 336 tris
+Interior Base - 2177 tris
+Interior Collider - 294 tris
+Interior Window_frames - 2336 tris
