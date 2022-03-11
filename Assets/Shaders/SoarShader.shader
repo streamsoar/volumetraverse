@@ -38,7 +38,7 @@ Shader "Soar/SoarShader"
 
             #include "UnityCG.cginc"
 
-            #define MAXIMUM_COLOR_CAMERA_COUNT 6
+            #define MAXIMUM_COLOR_CAMERA_COUNT 16
 
             UNITY_DECLARE_TEX2DARRAY( _CameraRGB );
             UNITY_DECLARE_TEX2DARRAY( _CameraDepth );
@@ -305,7 +305,7 @@ Shader "Soar/SoarShader"
                 }
                 else
                 {
-                    return float4( 0, 0, 0, 1.0f );
+                    return float4( 0, 0, 0, 0.0f );
                 }
 
             }
